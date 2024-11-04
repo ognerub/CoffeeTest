@@ -1,0 +1,41 @@
+"LoginScreenView.navBar.title" = "Enter";
+"LoginScreenView.email.textFieldName" = "e-mail";
+"LoginScreenView.email.placeholder" = "example@example.ru";
+"LoginScreenView.password.textFieldName" = "Password";
+"LoginScreenView.password.placeholder" = "password";
+"LoginScreenView.regButton.title" = "Registation";
+"LoginScreenView.enterButton.title" = "Enter";
+"LoginScreenView.alert.title" = "Login error";
+"LoginScreenView.alert.repeat" = "Repeat";
+
+"RegistrationScreen.navBar.title" = "Registration";
+"RegistrationScreen.email.textFieldName" = "e-mail";
+"RegistrationScreen.email.placeholder" = "example@example.ru";
+"RegistrationScreen.password.textFieldName" = "Password";
+"RegistrationScreen.password.placeholder" = "password";
+"RegistrationScreen.repeatPassword.textFieldName" = "Repeat password";
+"RegistrationScreen.repeatPassword.placeholder" = "password";
+"RegistrationScreen.regButton.title" = "Register";
+"RegistrationScreen.alert.title" = "System message";
+"RegistrationScreen.alert.validateEmail" = "E-mail should be like example@xample.ru";
+"RegistrationScreen.alert.validatePassword" = "Password must contain capital, lower case, number and overal length should be 6+ symbols";
+"RegistrationScreen.alert.validatePasswords" = "Passwords must be the same";
+"RegistrationScreen.alert.registrationSuccess" = "Successful registration! Now you can log in using the username and password specified during registration";
+"RegistrationScreen.alert.accept" = "Accept";
+
+"NearestСafeScreenView.navBar.title" = "Nearest Cafe";
+"NearestСafeScreenView.cafe.distance" = "km from You";
+"NearestСafeScreenView.mapButton.title" = "View on map";
+"NearestСafeScreenView.alert.title" = "System message";
+"NearestСafeScreenView.alert.message" = "Are you sure you want to exit?";
+"NearestСafeScreenView.alert.cancel" = "Cancel";
+"NearestСafeScreenView.alert.accept" = "Exit";
+
+"CafeMenuScreenView.navBar.title" = "Menu";
+"CafeMenuScreenView.cartButton.title" = "Cart";
+"CafeMenuScreenView.menuItem.currency" = "₽";
+
+"ClientCartScreenView.navBar.title" = "Your order";
+"ClientCartScreenView.payButton.title" = "Pay";
+"ClientCartScreenView.cart.empty" = "Cart is empty, select items from the cafe menu";
+"ClientCartScreenView.successPay.infoText" = "Waiting time for an order is \n15 minutes!\nThank you for choosing us!";

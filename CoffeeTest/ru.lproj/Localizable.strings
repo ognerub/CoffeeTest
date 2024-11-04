@@ -1,0 +1,41 @@
+"LoginScreenView.navBar.title" = "Вход";
+"LoginScreenView.email.textFieldName" = "e-mail";
+"LoginScreenView.email.placeholder" = "example@example.ru";
+"LoginScreenView.password.textFieldName" = "Пароль";
+"LoginScreenView.password.placeholder" = "password";
+"LoginScreenView.regButton.title" = "Регистрация";
+"LoginScreenView.enterButton.title" = "Войти";
+"LoginScreenView.alert.title" = "Ошибка входа";
+"LoginScreenView.alert.repeat" = "Повторить";
+
+"RegistrationScreen.navBar.title" = "Регистрация";
+"RegistrationScreen.email.textFieldName" = "e-mail";
+"RegistrationScreen.email.placeholder" = "example@example.ru";
+"RegistrationScreen.password.textFieldName" = "Пароль";
+"RegistrationScreen.password.placeholder" = "password";
+"RegistrationScreen.repeatPassword.textFieldName" = "Повторите пароль";
+"RegistrationScreen.repeatPassword.placeholder" = "password";
+"RegistrationScreen.regButton.title" = "Регистрация";
+"RegistrationScreen.alert.title" = "Системное сообщение";
+"RegistrationScreen.alert.validateEmail" = "Электронная почта должна быть example@xample.ru";
+"RegistrationScreen.alert.validatePassword" = "Пароль должен содержать заглавные, строчные буквы, цифры. Длина пароля не менее 6 символов";
+"RegistrationScreen.alert.validatePasswords" = "Пароли не совпадают";
+"RegistrationScreen.alert.registrationSuccess" = "Успешная регистрация! Теперь Вы можете войти при помощи логина и пароля, указанных при регистрации";
+"RegistrationScreen.alert.accept" = "ОК";
+
+"NearestСafeScreenView.navBar.title" = "Ближайшие кофейни";
+"NearestСafeScreenView.cafe.distance" = "км от Вас";
+"NearestСafeScreenView.mapButton.title" = "На карте";
+"NearestСafeScreenView.alert.title" = "Системное сообщение";
+"NearestСafeScreenView.alert.message" = "Вы уверены что хотите выйти?";
+"NearestСafeScreenView.alert.cancel" = "Отменить";
+"NearestСafeScreenView.alert.accept" = "Выйти";
+
+"CafeMenuScreenView.navBar.title" = "Меню";
+"CafeMenuScreenView.cartButton.title" = "Перейти к оплате";
+"CafeMenuScreenView.menuItem.currency" = "руб";
+
+"ClientCartScreenView.navBar.title" = "Ваш заказ";
+"ClientCartScreenView.payButton.title" = "Оплатить";
+"ClientCartScreenView.cart.empty" = "Корзина пуста, выберите товары из меню кафе";
+"ClientCartScreenView.successPay.infoText" = "Время ожидания заказа \n15 минут!\nСпасибо что выбрали нас!";
